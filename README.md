@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PavelLukyanovich
-- 👀 I’m interested in Java/Kotlin/Android dev.
+- 👀 I’m interested in Java/Kotlin.
 - 🌱 I’m currently learning Enlish and different technologies for development.
 
 
